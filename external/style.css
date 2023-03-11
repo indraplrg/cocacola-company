@@ -1,0 +1,28 @@
+body {
+  background-color: #f7f7ff;
+  overflow-x: hidden;
+}
+
+.header {
+  font-size: 4rem;
+}
+
+.bt {
+  font-size: 13rem;
+}
+
+.navbrand {
+  font-size: 3rem;
+}
+
+.y-line {
+  font-size: 4rem;
+}
+
+.paragraph {
+  font-size: 12px;
+}
+
+.about {
+  font-size: 3rem;
+}
